@@ -18,7 +18,7 @@ Tambahkan ke `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/kalenderjawa/PetunganSwift.git", from: "2.1.0"),
+    .package(url: "https://github.com/kalenderjawa/petungan-swift.git", from: "2.1.0"),
 ]
 ```
 
